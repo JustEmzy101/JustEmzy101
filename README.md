@@ -5,7 +5,7 @@ I specialize in building **end-to-end data solutions** — from raw ingestion to
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Stay Connected
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Data-Warehouse-Project-906f748d783549d09e6d30b00bcc4647)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustEmzy101)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmzidane101@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/JustEmzy101)          
 
@@ -47,12 +47,6 @@ Created an **interactive Power BI dashboard** analyzing global job postings in t
 ![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
 
----
-
-## 📫 Connect With Me
-- 💼 [LinkedIn](your-linkedin)  
-- 📧 Email: mmzidane101@gmail.com
-- 🌐 Portfolio: -
 
 ---
 
