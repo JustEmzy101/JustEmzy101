@@ -34,7 +34,7 @@ Designed and implemented a **three-layer data warehouse** (Bronze, Silver, Gold)
 
 ---
 
-### 📊 [Data Job Market Analysis (Power BI)](your-repo-link)
+### 📊 [Data Job Market Analysis (Power BI)](https://github.com/JustEmzy101/power_BI_data_job_market_analysis)
 Created an **interactive Power BI dashboard** analyzing global job postings in the data field (Analyst, Scientist, Engineer).  
 - Performed **data cleaning & shaping** (Power Query + DAX)  
 - Analyzed demand by **skills, location, and salary ranges**  
