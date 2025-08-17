@@ -16,7 +16,7 @@ I specialize in building **end-to-end data solutions** — from raw ingestion to
 
 ## 📌 Featured Projects
 
-### 🏗️ [Data Warehouse with Medallion Architecture]([your-repo-link](https://github.com/JustEmzy101/sql-data-warehouse-project)])
+### 🏗️ [Data Warehouse with Medallion Architecture](https://github.com/JustEmzy101/sql-data-warehouse-project)
 Designed and implemented a **three-layer data warehouse** (Bronze, Silver, Gold) to process messy, unstructured data into **business-ready datasets**.  
 - Built ingestion pipelines for raw data → Bronze  
 - Applied transformations, cleaning & validation → Silver  
