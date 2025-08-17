@@ -1,32 +1,36 @@
-# 👋 Hi, I’m Marwan Mohamed Zidane  
+# 👋 Hi, I’m Marwan Zidane  
 
 💡 **Data Analyst transitioning into Data Science**  
-I enjoy turning raw data into clear insights that drive better decisions. Skilled in SQL, Python, Excel, and BI tools, I’m expanding into Machine Learning and Cloud platforms to bridge analytics with AI.  
+I specialize in building **end-to-end data solutions** — from raw ingestion to clean, business-ready datasets and insightful dashboards. My work ranges from **data warehouse design (Medallion Architecture)** to **interactive BI dashboards**, blending data engineering, analytics, and storytelling.  
 
 ---
 
 ## 🔧 Tech & Tools
-- 🗄️ Databases: SQL (T-SQL, PostgreSQL, MySQL)  
-- 📊 Analytics: Excel · Power BI 
+- 🗄️ Databases & Warehousing: SQL · Medallion Architecture (Bronze/Silver/Gold) · Data Lakehouse  
+- 📊 Analytics: Power BI · Tableau · Excel  
 - 🐍 Programming: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-- ☁️ Cloud & ETL:  Azure   
-- 🧹 Other: Data Cleaning · Data Wrangling · Automation  
+- ☁️ Cloud & ETL: Azure  
+- 🧹 Data Engineering: ETL Pipelines · Data Cleaning · Data Modeling  
 
 ---
 
 ## 📌 Featured Projects
 
-### 📈 [Retail Sales Insights (Power BI)](your-repo-link)
-Interactive dashboard analyzing regional sales trends, customer behavior, and KPIs. Includes DAX measures, drill-throughs, and advanced visuals.
+### 🏗️ [Data Warehouse with Medallion Architecture](your-repo-link)
+Designed and implemented a **three-layer data warehouse** (Bronze, Silver, Gold) to process messy, unstructured data into **business-ready datasets**.  
+- Built ingestion pipelines for raw data → Bronze  
+- Applied transformations, cleaning & validation → Silver  
+- Delivered curated data models for BI tools → Gold  
+- Ready for integration with **Power BI/Tableau dashboards**  
 
-### 🗄️ [SQL Case Study – Customer Orders](your-repo-link)
-End-to-end SQL project using joins, CTEs, and window functions to extract actionable insights from messy transactional data.
+---
 
-### 🤖 [Customer Churn Prediction (Python, ML)](your-repo-link)
-Built a classification model to predict churn using Logistic Regression & Random Forest. Includes feature engineering, model evaluation, and deployment-ready code.
-
-### 🧹 [Data Cleaning & ETL Pipeline](your-repo-link)
-Automated pipeline for cleaning and transforming raw CSV data into structured analytics tables using Python and SQL.
+### 📊 [Data Job Market Analysis (Power BI)](your-repo-link)
+Created an **interactive Power BI dashboard** analyzing global job postings in the data field (Analyst, Scientist, Engineer).  
+- Performed **data cleaning & shaping** (Power Query + DAX)  
+- Analyzed demand by **skills, location, and salary ranges**  
+- Built dynamic **visuals, KPIs, and filters** for recruiters & job seekers  
+- Delivered insights into the **fastest-growing data roles & tools**  
 
 ---
 
@@ -38,8 +42,8 @@ Automated pipeline for cleaning and transforming raw CSV data into structured an
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](your-linkedin)  
-- 📧 Email: mmzidane101@gmail.com 
-- 🌐 Portfolio: [your-portfolio.com](#) *(optional)*  
+- 📧 Email: mmzidane101@gmail.com
+- 🌐 Portfolio: -
 
 ---
 
