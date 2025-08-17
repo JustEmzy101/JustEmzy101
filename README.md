@@ -44,8 +44,8 @@ Created an **interactive Power BI dashboard** analyzing global job postings in t
 ---
 
 ## 📊 GitHub Stats
-![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustEmzy101&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustEmzy101&layout=compact&theme=tokyonight)
 
 
 ---
