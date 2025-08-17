@@ -15,11 +15,11 @@ I specialize in building **end-to-end data solutions** — from raw ingestion to
 ---
 
 ## 🔧 Tech & Tools
-- 🗄️ Databases & Warehousing: SQL · Medallion Architecture (Bronze/Silver/Gold) · Data Lakehouse  
-- 📊 Analytics: Power BI · Tableau · Excel  
-- 🐍 Programming: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-- ☁️ Cloud & ETL: Azure  
-- 🧹 Data Engineering: ETL Pipelines · Data Cleaning · Data Modeling  
+- 🗄️ **Databases & Warehousing:** SQL · Medallion Architecture (Bronze/Silver/Gold) · Data Lakehouse  
+- 📊 **Analytics:** Power BI · Tableau · Excel  
+- 🐍 **Programming:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+- ☁️ **Cloud & ETL:** Azure  
+- 🧹 **Data Engineering:** ETL Pipelines · Data Cleaning · Data Modeling  
 
 ---
 
