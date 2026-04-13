@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marwan Zidane  
+# 👋 Hi, I’m Marwan Mohamed Mostafa
 
  
 I'm a Data Engineer specialize in building **end-to-end data solutions** — from raw ingestion to clean, business-ready datasets and insightful dashboards. My work ranges from **data warehouse design (Medallion Architecture)** to **interactive BI dashboards**, blending data engineering, analytics and infrastructure.
