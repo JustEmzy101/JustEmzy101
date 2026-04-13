@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Marwan Zidane  
 
 💡 **Data Engineer coming from Mechatronics Engineering**  
-I specialize in building **end-to-end data solutions** — from raw ingestion to clean, business-ready datasets and insightful dashboards. My work ranges from **data warehouse design (Medallion Architecture)** to **interactive BI dashboards**, blending data engineering, analytics, and storytelling.  
+I specialize in building **end-to-end data solutions** — from raw ingestion to clean, business-ready datasets and insightful dashboards. My work ranges from **data warehouse design (Medallion Architecture)** to **interactive BI dashboards**, blending data engineering, analytics and infrastructure.
 
 ---
 
