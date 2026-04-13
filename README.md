@@ -17,7 +17,7 @@ I'm a Data Engineer specialize in building **end-to-end data solutions** — fro
 ## 🔧 Tech & Tools
 - 🗄️ **Databases & Warehousing:** PostgreSQL - Medallion Architecture (Bronze/Silver/Gold) - Data Warehouse  
 - 📊 **Analytics:** Power BI 
-- 🐍 **Programming:** Python - BASH - PySpark
+- 🐍 **Programming:** SQL - Python - BASH - PySpark
 - ☁️ **Cloud & ETL:** GCP
 - 🧹 **Data Engineering:** ETL/ELT Pipelines · Data Cleaning · Data Modeling  
 
@@ -50,4 +50,4 @@ Created an **interactive Power BI dashboard** analyzing global job postings in t
 
 ---
 
-⚡ *“Data is the new oil, but only if refined into insights.”*  
+⚡ *“Data is a silent killer so keep an eye on it”*  
