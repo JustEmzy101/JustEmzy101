@@ -15,11 +15,11 @@ I'm a Data Engineer specialize in building **end-to-end data solutions** — fro
 ---
 
 ## 🔧 Tech & Tools
-- 🗄️ **Databases & Warehousing:** SQL · Medallion Architecture (Bronze/Silver/Gold) · Data Lakehouse  
-- 📊 **Analytics:** Power BI · Tableau · Excel  
-- 🐍 **Programming:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-- ☁️ **Cloud & ETL:** Azure  
-- 🧹 **Data Engineering:** ETL Pipelines · Data Cleaning · Data Modeling  
+- 🗄️ **Databases & Warehousing:** PostgreSQL - Medallion Architecture (Bronze/Silver/Gold) - Data Warehouse  
+- 📊 **Analytics:** Power BI 
+- 🐍 **Programming:** Python - BASH - PySpark
+- ☁️ **Cloud & ETL:** GCP
+- 🧹 **Data Engineering:** ETL/ELT Pipelines · Data Cleaning · Data Modeling  
 
 ---
 
